@@ -1,0 +1,25 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "Complete Week 3 Lab Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timjones92/3813ICTweek3.git"
+  },
+  "keywords": [
+    "week3"
+  ],
+  "author": "Tim Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timjones92/3813ICTweek3/issues"
+  },
+  "homepage": "https://github.com/timjones92/3813ICTweek3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
